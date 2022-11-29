@@ -1,0 +1,7 @@
+H:\C#\Teiler einer Zahl\Teiler einer Zahl\obj\Debug\Teiler einer Zahl.csprojAssemblyReference.cache
+H:\C#\Teiler einer Zahl\Teiler einer Zahl\obj\Debug\Teiler einer Zahl.csproj.CoreCompileInputs.cache
+H:\C#\Teiler einer Zahl\Teiler einer Zahl\bin\Debug\Teiler einer Zahl.exe.config
+H:\C#\Teiler einer Zahl\Teiler einer Zahl\bin\Debug\Teiler einer Zahl.exe
+H:\C#\Teiler einer Zahl\Teiler einer Zahl\bin\Debug\Teiler einer Zahl.pdb
+H:\C#\Teiler einer Zahl\Teiler einer Zahl\obj\Debug\Teiler einer Zahl.exe
+H:\C#\Teiler einer Zahl\Teiler einer Zahl\obj\Debug\Teiler einer Zahl.pdb
